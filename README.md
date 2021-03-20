@@ -2,6 +2,7 @@
 
 A prediction model that will recommend new music based on the user’s current state of mind.
 Our recommendation model adapts content-based filtering. The system is modelled using the following steps: 
+
 Step1: Dataset Clustering (Elbow method ->K-means)
 Step2: Data Reduction (PCA)
 Step3: Mood Prediction Analysis (a.k.a. Labeling)
