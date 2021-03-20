@@ -7,7 +7,7 @@ Step2: Data Reduction (PCA)
 Step3: Mood Prediction Analysis (a.k.a. Labeling)
 Step5: Mood Identification
 
-# Library and software environments
+### Library and software environments
 - Python 3.7
 - pandas
 - sklearn
